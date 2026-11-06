@@ -1,0 +1,15 @@
+torch==2.11.0
+transformers
+trl==1.6.0
+vllm==0.23.0
+accelerate
+datasets
+bitsandbytes
+numpy
+pandas
+math-verify
+sympy
+latex2sympy2
+regex
+word2number
+# optional: flash-attn
